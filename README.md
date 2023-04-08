@@ -1,0 +1,1 @@
+O intuito desse projeto é aprender a criar API's REST usando o Django REST Framework. O tema desse projeto é desenvolver uma API de pontos turisticos, com base no que é ensinado no curso que estou fazendo 
