@@ -4,4 +4,4 @@ from ..models import Avaliacoes
 class AvaliacoesSerializer(serializers.ModelSerializer):
     class Meta:
         model = Avaliacoes
-        fields = ('comentario', 'nota', 'data')
+        fields = ('user', 'comentario', 'nota', 'data')
